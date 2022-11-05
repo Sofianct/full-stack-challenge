@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "username": "Niki",
+      "password": "Mish"
+    }
+  ],
+  "gifs": [
+    {
+      "id": "1",
+      "url": "https://media0.giphy.com/media/3oz8xRhjIlhvFJn6Mg/giphy.gif?cid=71a0cf0e09474578a30b26255c96e7ce0060696f4e6e26b6&rid=giphy.gif&ct=g",
+      "title": "A gif 1",
+      "tags": "dogs"
+    },
+    {
+      "id": "2",
+      "url": "https://media2.giphy.com/media/MDagq8ZI0qms4DP9op/giphy.gif?cid=71a0cf0ef6ef0562ab1d4ac28433d67f1a9c514e765bcdde&rid=giphy.gif&ct=g",
+      "title": "A gif 2",
+      "tags": "dogs"
+    },
+    {
+      "id": "3",
+      "url": "https://media3.giphy.com/media/woZmz6J7IfOA6nJzzU/giphy.gif?cid=71a0cf0e1f517d1f9fb5c463a1a852d6433f361747b3cabd&rid=giphy.gif&ct=g",
+      "title": "A gif 3",
+      "tags": "dogs"
+    },
+    {
+      "id": "4",
+      "url": "https://media3.giphy.com/media/xT9IgGvGkmoyEMN8Vq/giphy.gif?cid=71a0cf0ef9b160562278aa2fa9a8b72e67973a75116db854&rid=giphy.gif&ct=g",
+      "title": "A gif 4",
+      "tags": "kpop"
+    },
+    {
+      "id": "5",
+      "url": "https://media3.giphy.com/media/xT9IgGvGkmoyEMN8Vq/giphy.gif?cid=71a0cf0ef9b160562278aa2fa9a8b72e67973a75116db854&rid=giphy.gif&ct=g",
+      "title": "A gif 5",
+      "tags": "kpop"
+    },
+    {
+      "id": "6",
+      "url": "https://media3.giphy.com/media/xT9IgGvGkmoyEMN8Vq/giphy.gif?cid=71a0cf0ef9b160562278aa2fa9a8b72e67973a75116db854&rid=giphy.gif&ct=g",
+      "title": "A gif 6",
+      "tags": "music"
+    },
+    {
+      "id": "7",
+      "url": "https://media4.giphy.com/media/UqeA8Pz46iJn0EGlcF/giphy.gif?cid=71a0cf0e8fd7e6b83e69caff7e86051f0450b0b37fe4bacc&rid=giphy.gif&ct=g",
+      "title": "A test",
+      "tags": "music"
+    },
+    {
+      "title": "test",
+      "url": "https://media4.giphy.com/media/UqeA8Pz46iJn0EGlcF/giphy.gif?cid=71a0cf0e8fd7e6b83e69caff7e86051f0450b0b37fe4bacc&rid=giphy.gif&ct=g",
+      "tag": "kpop",
+      "id": "lQ4BwC1"
+    },
+    {
+      "title": "a test",
+      "url": "https://media.giphy.com/media/3oz8xzYXuCWF1IXv68/giphy.gif",
+      "tag": "kpop",
+      "id": "Daq6dAt"
+    },
+    {
+      "title": "another test",
+      "url": "https://media1.giphy.com/media/3oz8xzYXuCWF1IXv68/giphy.gif",
+      "tag": "dogs",
+      "id": "jqp9Kn7"
+    }
+  ]
+}
